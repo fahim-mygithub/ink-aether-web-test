@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Ink &amp; Aether (GitHub Pages test of the itch.io embed)</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- The relay URL for multiplayer (config value relayUrl in Scripts/pages/pages.config.json; empty until Docs/NET_RELAY.md names one) -->
+<meta name="ink-relay-url" content="">
+<style>
+html,body{margin:0;height:100%;background:#111;color:#bbb;font:14px system-ui,sans-serif}
+#note{padding:6px 10px}
+#frame{display:block;margin:0 auto;width:1280px;height:720px;max-width:100%;border:0;background:#000}
+</style></head><body>
+<div id="note">GitHub Pages test host: this page stands in for the itch.io game page; the game runs in the iframe below, as on itch.io.</div>
+<script>
+// Pages cannot send COOP/COEP; coi-sw.js adds them, so the page reloads once under it (a top page that is not cross-origin
+// isolated cannot host an isolated iframe). itch.io sends the headers itself, so none of this exists there.
+(async () => {
+  if (!window.crossOriginIsolated && 'serviceWorker' in navigator && !sessionStorage.getItem('ink.coi.reload')) {
+    try {
+      const reg = await navigator.serviceWorker.register('coi-sw.js');
+      await navigator.serviceWorker.ready;
+      sessionStorage.setItem('ink.coi.reload', '1');
+      location.reload();
+      return;
+    } catch (e) { console.error('coi-sw register failed', e); }
+  }
+  const f = document.createElement('iframe');
+  f.id = 'frame';
+  // itch.io's embed (verified against a live html-classic.itch.zone page, see Docs/PAGES_TEST.md): see the allow list there
+  f.setAttribute('allow', 'autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated; web-share');
+  f.setAttribute('allowfullscreen', 'true');
+  f.setAttribute('scrolling', 'no');
+  f.src = 'play/index.html';
+  document.body.appendChild(f);
+})();
+</script></body></html>

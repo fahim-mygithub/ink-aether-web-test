@@ -1,0 +1,38 @@
+name: Deploy Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4.4.0
+      # The .wasm is over git's 100 MB file limit: it is the release asset of tag "wasm" (Scripts/pages_deploy.ps1 uploads it)
+      - name: Fetch the .wasm and check its sha1 against wasm-cache.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          dir=site/play/InkAether/Binaries/Wasm
+          mkdir -p "$dir"
+          gh release download wasm --repo "$GITHUB_REPOSITORY" --pattern '*.wasm' --dir "$dir" --clobber
+          want=$(jq -r '.[] | select(.url|endswith(".wasm")) | .sha1' site/play/wasm-cache.json)
+          got=$(sha1sum "$dir"/*.wasm | cut -d' ' -f1)
+          echo "wasm sha1 want=$want got=$got"
+          test "$want" = "$got"
+          ls -l "$dir"
+      - uses: actions/upload-pages-artifact@v4.0.0
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4.0.5
