@@ -1,0 +1,16 @@
+[
+  {"path": "/Engine/Config/StagedBuild_InkAether.ini", "url": "Engine/Config/StagedBuild_InkAether.ini", "size": 3, "sha1": "57218c316b6921e2cd61027a2387edc31a2d9471"},
+  {"path": "/Engine/Content/Renderer/TessellationTable.bin", "url": "Engine/Content/Renderer/TessellationTable.bin", "size": 259568, "sha1": "3a3402ca2d3531ab8352c818ea1181288bd78c72"},
+  {"path": "/Engine/GlobalShaderCache-SP_WEBGPU_ES3_1_DEFERRED.bin", "url": "Engine/GlobalShaderCache-SP_WEBGPU_ES3_1_DEFERRED.bin", "size": 840908, "sha1": "cf3e996b80d7558b5bf756b65dc2ba233a6ef48a"},
+  {"path": "/InkAether/Content/Paks/InkAether-Wasm.pak", "url": "InkAether/Content/Paks/InkAether-Wasm.pak", "size": 9880915, "sha1": "1314dddbd83d2aff3a1809ee0d45402881d731f1"},
+  {"path": "/InkAether/Content/Paks/InkAether-Wasm.ucas", "url": "InkAether/Content/Paks/InkAether-Wasm.ucas", "size": 143263232, "sha1": "037368cb8ac36bf2df84deb2b37fe2ceffc3a98c"},
+  {"path": "/InkAether/Content/Paks/InkAether-Wasm.utoc", "url": "InkAether/Content/Paks/InkAether-Wasm.utoc", "size": 338698, "sha1": "9bb4a8855570da62761e5579c8a93319e3d0089a"},
+  {"path": "/InkAether/Content/Paks/global.ucas", "url": "InkAether/Content/Paks/global.ucas", "size": 16, "sha1": "e129f27c5103bc5cc44bcdf0a15e160d445066ff"},
+  {"path": "/InkAether/Content/Paks/global.utoc", "url": "InkAether/Content/Paks/global.utoc", "size": 206, "sha1": "feefe947075479c18ecefc4229e5e36a5e043313"},
+  {"path": "/InkAether/Content/ShaderArchive-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "url": "InkAether/Content/ShaderArchive-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "size": 5631941, "sha1": "f29821ec8b0f780c18504b709179d79370aaded5"},
+  {"path": "/InkAether/Content/ShaderArchive-InkAether-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "url": "InkAether/Content/ShaderArchive-InkAether-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "size": 2591544, "sha1": "e410173e20059663d86d91a7f82f480b3c2fb989"},
+  {"path": "/InkAether/Content/ShaderAssetInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "url": "InkAether/Content/ShaderAssetInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "size": 17860, "sha1": "39346a89bc22647417909361f239236eccb29ae3"},
+  {"path": "/InkAether/Content/ShaderAssetInfo-InkAether-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "url": "InkAether/Content/ShaderAssetInfo-InkAether-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "size": 22801, "sha1": "6afb5916742ab2c41884b0f6f59fac4fadde1b03"},
+  {"path": "/InkAether/Content/ShaderTypeInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "url": "InkAether/Content/ShaderTypeInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "size": 23244, "sha1": "ef42688abf90c619bddb6bc90928fe91a5f7a7af"},
+  {"path": "/InkAether/Content/ShaderTypeInfo-InkAether-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "url": "InkAether/Content/ShaderTypeInfo-InkAether-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "size": 9944, "sha1": "e3f25d8c069c1db822890a5be08784c9132caad7"}
+]

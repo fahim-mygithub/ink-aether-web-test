@@ -1,0 +1,1037 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "01148F55B7D713F4",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "03D4737B0C892BBE",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LayerVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "04A02203C05E48D7",
+			"Assets": [
+				"/Game/InkAether/Art/M_Placeholder_Parchment"
+			]
+		},
+		{
+			"ShaderMapHash": "052CB439F58ECFC2",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05965BE96E7C8F05",
+			"Assets": [
+				"/Game/InkAether/RaceCreator/M_RC_Stage"
+			]
+		},
+		{
+			"ShaderMapHash": "0599A4B183C4742B",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Mote"
+			]
+		},
+		{
+			"ShaderMapHash": "06ABDBFA11F15950",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "0B0A66D7D8C7DE96",
+			"Assets": [
+				"/Game/InkAether/Dive/World/M_WorldTerrain"
+			]
+		},
+		{
+			"ShaderMapHash": "0C529F6A684E8FE2",
+			"Assets": [
+				"/Game/InkAether/MapTable/Materials/M_WT_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "0CA9AE08C4338AB4",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/M_Dataflow_CheckerBoard"
+			]
+		},
+		{
+			"ShaderMapHash": "0E88B17228E18929",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "105CEB87993851E1",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "11269231433B7166",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "13EC567C905943B4",
+			"Assets": [
+				"/Game/InkAether/Dive/Explore/M_WorldTerrain_AAA"
+			]
+		},
+		{
+			"ShaderMapHash": "1412CA5B0C366C87",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1433909789ABA103",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Puff"
+			]
+		},
+		{
+			"ShaderMapHash": "17322D17BD422665",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "17961477B36326A6",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "18DB3236AD8BDA5D",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Label_UV1"
+			]
+		},
+		{
+			"ShaderMapHash": "1A31D606C755374D",
+			"Assets": [
+				"/Game/InkAether/Hands/Ghost/M_GhostHand_Depth"
+			]
+		},
+		{
+			"ShaderMapHash": "1C4E981BFD937C76",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "1C77CB06A864C400",
+			"Assets": [
+				"/InterchangeAssets/gltf/Substrate/M_GLTF"
+			]
+		},
+		{
+			"ShaderMapHash": "1D14FEBD0CD69670",
+			"Assets": [
+				"/CommonUI/M_UI_HoldProgress"
+			]
+		},
+		{
+			"ShaderMapHash": "1DBD79CEC5CD577B",
+			"Assets": [
+				"/Game/InkAether/MapTable/Materials/M_MapSheet"
+			]
+		},
+		{
+			"ShaderMapHash": "1E3600C1DF737455",
+			"Assets": [
+				"/Game/InkAether/Data/Valise/Materials/M_Valise_Stain"
+			]
+		},
+		{
+			"ShaderMapHash": "1E72AF450DD099B7",
+			"Assets": [
+				"/Engine/EditorMaterials/WidgetVertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1EE22B180F8E5A2A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "20BF91A8F3465CE0",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "22436242A877FF12",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "22A1A2C388DB038B",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "236544E4A4F49AC1",
+			"Assets": [
+				"/ProceduralVegetationEditor/DefaultAssets/Visualization/Materials/M_TextureVisualization"
+			]
+		},
+		{
+			"ShaderMapHash": "254E7146FC726F3B",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "25F37A7FCBAB1780",
+			"Assets": [
+				"/CommonUI/VideoPlayerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "278CE72F38EC5A9C",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "27D807737A9E5B36",
+			"Assets": [
+				"/Game/InkAether/Dive/Sky/M_SkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "281B0F979DE627F0",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2AC8ED9A76FB7B2F",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_ArcInlay"
+			]
+		},
+		{
+			"ShaderMapHash": "2D85B8A99A2FD70A",
+			"Assets": [
+				"/Game/InkAether/RaceCreator/M_RC_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "2DFBB172EF5320E2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "2ED6B9BB8A48430E",
+			"Assets": [
+				"/Game/InkAether/Front/Materials/M_UI_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "3277159DF101602A",
+			"Assets": [
+				"/Game/InkAether/Data/Valise/Materials/M_Valise_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "351ED68557510BF6",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Ink"
+			]
+		},
+		{
+			"ShaderMapHash": "352A01CAD89594E3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "35D2C053D3B9E145",
+			"Assets": [
+				"/Game/InkAether/RaceCreator/M_RC_Frost"
+			]
+		},
+		{
+			"ShaderMapHash": "362873491EBE4823",
+			"Assets": [
+				"/Game/InkAether/Art/Desk/Masters/M_Desk_Master_Lacquer"
+			]
+		},
+		{
+			"ShaderMapHash": "3843BD816DE4CCFD",
+			"Assets": [
+				"/Game/InkAether/Art/M_Placeholder_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "3961C68A3FE53F9F",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "3AA29DF0FAD5F85C",
+			"Assets": [
+				"/Game/InkAether/PlaceNames/Materials/M_NameSlip"
+			]
+		},
+		{
+			"ShaderMapHash": "3B09C89817B75F62",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3BC09B82FD1D9D34",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3C20E35D2BCE5962",
+			"Assets": [
+				"/Game/InkAether/Art/Desk/Masters/M_Desk_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "3E237B9D260BE1DD",
+			"Assets": [
+				"/ProceduralVegetationEditor/Materials/PreviewTrunkMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3E68D9C6D9FD5809",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "3F2C83B054E8943F",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3FCE2CBEADE3D00A",
+			"Assets": [
+				"/Game/InkAether/Hands/Ghost/M_GhostSmoke"
+			]
+		},
+		{
+			"ShaderMapHash": "400CB7C6363BCBA9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OutputDepthAndVelocity"
+			]
+		},
+		{
+			"ShaderMapHash": "41357CE221BE947B",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "41420EF120CC53CF",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "44985350F73D3644",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "454D1CE805C60A1B",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "45ADFA20477E9084",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowSelection"
+			]
+		},
+		{
+			"ShaderMapHash": "4AF16A694EB2CDC8",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4C2167AC12993FD0",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4C4F27AA15AB305D",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_ArcGilt"
+			]
+		},
+		{
+			"ShaderMapHash": "4C6FF4C0EB7ADDA1",
+			"Assets": [
+				"/Game/InkAether/Hands/Materials/M_Hands_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "4E99A0FB1AA3F49D",
+			"Assets": [
+				"/Game/InkAether/Dive/Witness/M_DiveWitness"
+			]
+		},
+		{
+			"ShaderMapHash": "526270E668065726",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "52F14F9689139B92",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "52F499C710B97260",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "54743A06CB56FBF4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5562C160AC36600A",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "59F542FA05022ABB",
+			"Assets": [
+				"/Game/InkAether/Art/M_Placeholder_Pawn"
+			]
+		},
+		{
+			"ShaderMapHash": "5A7F7772C4F98779",
+			"Assets": [
+				"/Game/InkAether/DeskAssets/Materials/M_DeskAsset_UV_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "5B1D86C2164BCBA1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5D8512AD6A879962",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Flame"
+			]
+		},
+		{
+			"ShaderMapHash": "5E26770E06D37AED",
+			"Assets": [
+				"/Game/InkAether/Dive/World/M_WorldNowBake"
+			]
+		},
+		{
+			"ShaderMapHash": "5F50EAC97B10EEE4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5F64D0190094C499",
+			"Assets": [
+				"/Game/InkAether/MapTable/Materials/M_WT_Greybox"
+			]
+		},
+		{
+			"ShaderMapHash": "648411720B8F91BE",
+			"Assets": [
+				"/Game/InkAether/Art/M_Placeholder_Wax"
+			]
+		},
+		{
+			"ShaderMapHash": "6625A4298A5D2399",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "664BACB1BBE7362B",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "66B813AE7B2657B1",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "68677942E59DB2B2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "68EA61F4104BFC44",
+			"Assets": [
+				"/Game/InkAether/PlaceNames/Materials/M_PlaceName"
+			]
+		},
+		{
+			"ShaderMapHash": "6E37E7D63F594697",
+			"Assets": [
+				"/Game/InkAether/Data/Valise/Materials/M_Valise_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "6ED078AAF89FFE0B",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6FB5FBE4E5D3EB66",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6FF3FFACC42154F2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "706CB6B81922FCD3",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Surface"
+			]
+		},
+		{
+			"ShaderMapHash": "719297F7521FB444",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "721D1DE265627791",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Label_UV0"
+			]
+		},
+		{
+			"ShaderMapHash": "72572A97D01A2037",
+			"Assets": [
+				"/MeshModelingToolsetExp/Materials/LineSetOverlaidComponentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "73262D4BD2EBD068",
+			"Assets": [
+				"/Game/InkAether/Hands/Ghost/M_GhostHand"
+			]
+		},
+		{
+			"ShaderMapHash": "75E8F423B3D43B89",
+			"Assets": [
+				"/Game/InkAether/Front/Materials/M_UI_Flame"
+			]
+		},
+		{
+			"ShaderMapHash": "76B16CDF54E5995D",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B0E575610564BCF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7B6CABD0188080DC",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Dial"
+			]
+		},
+		{
+			"ShaderMapHash": "7C856115A2CF53A4",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "81D772BD08D67621",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "823826C9D111294E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "838F59F308F4952D",
+			"Assets": [
+				"/Game/InkAether/Front/Materials/M_UI_Smudge"
+			]
+		},
+		{
+			"ShaderMapHash": "84DAFFEA743E556E",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "8516371171D7B144",
+			"Assets": [
+				"/Game/InkAether/Dive/Beats/M_WorldFoliage"
+			]
+		},
+		{
+			"ShaderMapHash": "8A5C1CD4EA823072",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "8B444C57AC1BDECE",
+			"Assets": [
+				"/Game/InkAether/DeskAssets/Materials/M_DeskAsset_UV"
+			]
+		},
+		{
+			"ShaderMapHash": "8B7859DC586EF905",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8C7CAE9979A53196",
+			"Assets": [
+				"/Game/InkAether/MapTable/Materials/M_WT_Label"
+			]
+		},
+		{
+			"ShaderMapHash": "8EF6C07C22EB4348",
+			"Assets": [
+				"/Game/InkAether/Dive/World/M_WorldLayer"
+			]
+		},
+		{
+			"ShaderMapHash": "8F003D8B60533E15",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "90BFEBAD99A50F36",
+			"Assets": [
+				"/Game/InkAether/Art/M_Placeholder_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "92FD19F000BD295F",
+			"Assets": [
+				"/Game/InkAether/Dive/Beats/M_DiveCardLit"
+			]
+		},
+		{
+			"ShaderMapHash": "95E62D66F49993BA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9BA68C7C4F58DB5D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9C5295DC7F705B24",
+			"Assets": [
+				"/Game/InkAether/Dive/World/M_WorldCopy"
+			]
+		},
+		{
+			"ShaderMapHash": "9C79AC80A131F996",
+			"Assets": [
+				"/Game/InkAether/Front/Materials/M_UI_InkDrop"
+			]
+		},
+		{
+			"ShaderMapHash": "9FE7D39DEE67390E",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A083F9B32C2665DC",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Bead"
+			]
+		},
+		{
+			"ShaderMapHash": "A0A35BF55C62A916",
+			"Assets": [
+				"/Game/InkAether/MapTable/Materials/M_WT_Ember"
+			]
+		},
+		{
+			"ShaderMapHash": "A56FAA18C48DB417",
+			"Assets": [
+				"/Game/InkAether/Dive/Stage/M_BS_InkMist"
+			]
+		},
+		{
+			"ShaderMapHash": "A6C72A219729C036",
+			"Assets": [
+				"/Game/InkAether/Dive/Water/M_World_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "A6EB32FEED3300D1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AA929ABB8FB38C74",
+			"Assets": [
+				"/CommonUI/M_UI_VirtualPointer"
+			]
+		},
+		{
+			"ShaderMapHash": "AB1ADBA8302F14B9",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "ABAB26C884C56395",
+			"Assets": [
+				"/Game/InkAether/Dive/Beats/M_PP_DiveTiltShift"
+			]
+		},
+		{
+			"ShaderMapHash": "ACA9AA9B32F4821F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B0EC95305D547AC7",
+			"Assets": [
+				"/Game/InkAether/RaceCreator/M_RC_Figure"
+			]
+		},
+		{
+			"ShaderMapHash": "B13149AD244E6EAE",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "B2BE2B2974ED3F84",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B2DBA93004098569",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B66FAAF7730E8535",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "B6A70B2580121D85",
+			"Assets": [
+				"/Game/InkAether/Dive/Sampler/M_LandSamplerHeight"
+			]
+		},
+		{
+			"ShaderMapHash": "B842458EC93F4A7C",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_BeadCore"
+			]
+		},
+		{
+			"ShaderMapHash": "B89998D45F441200",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B98B2F4A2FAB5136",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BBBA9890EEC73DC9",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "C1DAF4CBFC3C7B6A",
+			"Assets": [
+				"/Game/InkAether/Hands/Seq/M_HandSeq_Ghost"
+			]
+		},
+		{
+			"ShaderMapHash": "C22FB1234B61D237",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "C30D60332EFABBF2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C3FB020D1AEE24FB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C452E64C7F54C699",
+			"Assets": [
+				"/Game/InkAether/Dive/Water/M_Water_CausticsLF"
+			]
+		},
+		{
+			"ShaderMapHash": "C45902B45E9B7C4E",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_Ripple"
+			]
+		},
+		{
+			"ShaderMapHash": "C45D132458422461",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "C47BD99E853223FF",
+			"Assets": [
+				"/Game/InkAether/Dive/Sky/M_PP_DiveVignette"
+			]
+		},
+		{
+			"ShaderMapHash": "C92E6BD818F12141",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "C9E395CD91FCD95C",
+			"Assets": [
+				"/Game/InkAether/Dive/Desk/M_DeskGoldMote"
+			]
+		},
+		{
+			"ShaderMapHash": "CA8674F3B13CBD6E",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "CB3C0BC03D47C083",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "D1E147EBDB7D202B",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D4FE72797F114AE8",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_OutputDepthAndVelocity",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OutputDepthAndVelocity_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D82B7C54496430E0",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DD32B1047F9BF24C",
+			"Assets": [
+				"/Game/InkAether/Art/M_Placeholder_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "DF5025F0FDD81A2A",
+			"Assets": [
+				"/Game/InkAether/Art/Desk/Masters/M_Desk_Master_Wax"
+			]
+		},
+		{
+			"ShaderMapHash": "E11C1E8FB5D1EF67",
+			"Assets": [
+				"/Game/InkAether/RaceCreator/M_RC_Page"
+			]
+		},
+		{
+			"ShaderMapHash": "E2D808385B40A072",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E4F8239A530446A5",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E64D0F075D5F1F59",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "E6D9AAF598772C11",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E712CC0EAD68AC97",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "EB76E43852F5F0C6",
+			"Assets": [
+				"/Game/InkAether/MapTable/Materials/M_WT_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "ECB0A44B22D4DAFC",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F130942DDF995E91",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F314DBC7FF6A2B56",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F576EA83B76CF017",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "F5868DEC525EC835",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F60DE721F8CD8640",
+			"Assets": [
+				"/ProceduralVegetationEditor/Materials/PointMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F60F4901F5CEEBAB",
+			"Assets": [
+				"/Game/InkAether/Dive/Beats/M_DiveCardAdd"
+			]
+		},
+		{
+			"ShaderMapHash": "F6AC341C3EC79AE5",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F74AD40B2DF5D7F3",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "F82BB3C0809DFAEA",
+			"Assets": [
+				"/MeshModelingToolsetExp/Materials/PointSetOverlaidComponentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FB85317028D176D1",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC12EAB62EE62BFE",
+			"Assets": [
+				"/Game/InkAether/ValiseLab/Materials/M_VL_MapPaint"
+			]
+		}
+	]
+}
